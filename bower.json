@@ -1,0 +1,17 @@
+{
+    "name": "wellfleet-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Riccardo De Franceschi"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/wellfleet-bower.git"
+    },
+    "description": "Wellfleet font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
